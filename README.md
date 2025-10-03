@@ -32,7 +32,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence/)
 
-- [ ] [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)
+- [x] [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)
 
 - [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
 
