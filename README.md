@@ -45,7 +45,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 - [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 
 ## Two Pointers
-- [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+- [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 
 - [ ] [Sum of Three Values](https://leetcode.com/problems/3sum-closest/)
 
