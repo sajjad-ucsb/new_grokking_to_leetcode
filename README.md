@@ -49,7 +49,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Sum of Three Values](https://leetcode.com/problems/3sum-closest/)
 
-- [ ] [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+- [x] [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 
 - [ ] [Sort Colors](https://leetcode.com/problems/sort-colors/) 
 
