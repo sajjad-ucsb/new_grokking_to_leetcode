@@ -73,7 +73,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 ## Merge Intervals
 
-- [ ] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+- [x] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 
 - [ ] [Insert Interval](https://leetcode.com/problems/insert-interval/)
 
