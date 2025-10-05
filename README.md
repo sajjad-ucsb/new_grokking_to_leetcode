@@ -59,7 +59,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 ## Fast and Slow Pointers
 
-- [ ] [Happy Number](https://leetcode.com/problems/happy-number/)
+- [x] [Happy Number](https://leetcode.com/problems/happy-number/)
 
 - [x] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 
