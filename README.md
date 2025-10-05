@@ -77,7 +77,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [x] [Insert Interval](https://leetcode.com/problems/insert-interval/)
 
-- [ ] [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)
+- [x] [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)
 
 - [ ] [Employee Free Time](https://leetcode.com/problems/employee-free-time/)
 
