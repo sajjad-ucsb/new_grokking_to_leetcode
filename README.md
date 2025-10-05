@@ -99,7 +99,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Reverse Nodes In Even Length Groups](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/)
 
-- [ ] [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
+- [x] [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
 
 ## Two Heaps
 
