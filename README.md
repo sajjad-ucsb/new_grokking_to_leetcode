@@ -127,7 +127,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 ## Top K Elements
 
-- [ ] [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
+- [x] [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
 
 - [ ] [Reorganize String](https://leetcode.com/problems/reorganize-string/)
 
