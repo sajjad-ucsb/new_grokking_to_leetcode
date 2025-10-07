@@ -135,7 +135,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [x] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 
-- [ ] [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+- [x] [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 
 - [ ] [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 
