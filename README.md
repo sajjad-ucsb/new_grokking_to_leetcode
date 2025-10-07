@@ -107,7 +107,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/)
 
-- [ ] [Find Median from a Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
+- [x] [Find Median from a Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
 
 - [ ] [Schedule Tasks on Minimum Machines](https://leetcode.com/problems/task-scheduler/)?
 
