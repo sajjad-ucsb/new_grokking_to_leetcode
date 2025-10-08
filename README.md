@@ -474,4 +474,25 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 - [ ] [Multiply Strings](https://leetcode.com/problems/multiply-strings)
 
 
+## ML
 
+- [ ] Unsupervised Learning
+- [ ] Transfer Learning
+- [ ] SVM
+- [ ] Supervised Learning
+- [x] Random Forest
+- [ ] PCA/t-SNE
+- [ ] NLP
+- [ ] Model Evaluation
+- [ ] MLOps
+- [ ] Logistic Regression
+- [ ] LLMs
+- [ ] LLMs Ops
+- [ ] Linear Regression
+- [x] K-Nearest Neighbor
+- [ ] K-Means Clustering
+- [ ] Feature Engineering
+- [ ] Deep Learning
+- [x] Decision Tree
+- [ ] Cost Function
+- [ ] Ensemble Learning
