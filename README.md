@@ -481,7 +481,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 - [ ] SVM
 - [ ] Supervised Learning
 - [x] Random Forest
-- [ ] PCA/t-SNE
+- [x] PCA/t-SNE
 - [ ] NLP
 - [ ] Model Evaluation
 - [ ] MLOps
