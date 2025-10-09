@@ -159,9 +159,9 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 ## Subsets
 
-- [ ] [Subsets](https://leetcode.com/problems/subsets/)
+- [x] [Subsets](https://leetcode.com/problems/subsets/)
 
-- [ ] [Permutations](https://leetcode.com/problems/permutations/)
+- [x] [Permutations](https://leetcode.com/problems/permutations/)
 
 - [ ] [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
 
