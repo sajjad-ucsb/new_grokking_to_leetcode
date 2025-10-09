@@ -317,7 +317,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)
 
-- [ ] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+- [x] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 
 - [ ] [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst)
 
