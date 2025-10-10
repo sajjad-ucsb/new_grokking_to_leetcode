@@ -331,7 +331,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)
 
-- [ ] [Symmetric Tree](https://leetcode.com/problems/symmetric-tree)
+- [x] [Symmetric Tree](https://leetcode.com/problems/symmetric-tree)
 
 - [ ] [Word Ladder](https://leetcode.com/problems/word-ladder)
 
