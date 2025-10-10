@@ -335,7 +335,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Word Ladder](https://leetcode.com/problems/word-ladder)
 
-- [ ] [Connect All Siblings of a Binary Tree](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
+- [x] [Connect All Siblings of a Binary Tree](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
 
 ## Trie
 
