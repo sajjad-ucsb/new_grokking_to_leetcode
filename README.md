@@ -341,7 +341,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [x] [Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/)
 
-- [ ] [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)
+- [x] [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)
 
 - [x] [Replace Words](https://leetcode.com/problems/replace-words/)
 
