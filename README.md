@@ -496,3 +496,6 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 - [x] Decision Tree
 - [ ] Cost Function
 - [ ] Ensemble Learning
+- [ ] Linear Algebra
+- [ ] RLHF
+- [ ] PPO & GRPO
