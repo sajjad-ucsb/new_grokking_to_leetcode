@@ -476,10 +476,10 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 ## ML
 
-- [ ] Unsupervised Learning
+- [x] Unsupervised Learning
 - [x] Transfer Learning
 - [x] SVM
-- [ ] Supervised Learning
+- [x] Supervised Learning
 - [x] Random Forest
 - [x] PCA/t-SNE
 - [ ] NLP
@@ -491,7 +491,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 - [x] Linear Regression
 - [x] K-Nearest Neighbor
 - [x] K-Means Clustering
-- [ ] Feature Engineering
+- [x] Feature Engineering
 - [ ] Deep Learning
 - [x] Decision Tree
 - [x] Cost Function
