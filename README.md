@@ -490,7 +490,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 - [ ] LLMs Ops
 - [ ] Linear Regression
 - [x] K-Nearest Neighbor
-- [ ] K-Means Clustering
+- [x] K-Means Clustering
 - [ ] Feature Engineering
 - [ ] Deep Learning
 - [x] Decision Tree
