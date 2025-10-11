@@ -477,8 +477,8 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 ## ML
 
 - [ ] Unsupervised Learning
-- [ ] Transfer Learning
-- [ ] SVM
+- [x] Transfer Learning
+- [x] SVM
 - [ ] Supervised Learning
 - [x] Random Forest
 - [x] PCA/t-SNE
@@ -495,7 +495,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 - [ ] Deep Learning
 - [x] Decision Tree
 - [x] Cost Function
-- [ ] Ensemble Learning
+- [x] Ensemble Learning
 - [ ] Linear Algebra
 - [ ] RLHF
 - [ ] PPO & GRPO
