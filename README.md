@@ -483,7 +483,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 - [x] Random Forest
 - [x] PCA/t-SNE
 - [ ] NLP
-- [ ] Model Evaluation
+- [x] Model Evaluation
 - [ ] MLOps
 - [x] Logistic Regression
 - [ ] LLMs
@@ -494,7 +494,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 - [ ] Feature Engineering
 - [ ] Deep Learning
 - [x] Decision Tree
-- [ ] Cost Function
+- [x] Cost Function
 - [ ] Ensemble Learning
 - [ ] Linear Algebra
 - [ ] RLHF
