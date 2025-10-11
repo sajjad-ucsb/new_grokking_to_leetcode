@@ -485,10 +485,10 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 - [ ] NLP
 - [ ] Model Evaluation
 - [ ] MLOps
-- [ ] Logistic Regression
+- [x] Logistic Regression
 - [ ] LLMs
 - [ ] LLMs Ops
-- [ ] Linear Regression
+- [x] Linear Regression
 - [x] K-Nearest Neighbor
 - [x] K-Means Clustering
 - [ ] Feature Engineering
