@@ -273,7 +273,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
 
-- [ ] [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
+- [x] [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
 
 - [ ] [Exclusive Execution Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/)
 
@@ -281,7 +281,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
 
-- [ ] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+- [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 
 ## Graphs
 
