@@ -289,9 +289,9 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Paths in Maze That Lead to Same Room](https://leetcode.com/problems/paths-in-maze-that-lead-to-same-room/)
 
-- [ ] [Clone Graph](https://leetcode.com/problems/clone-graph)
+- [x] [Clone Graph](https://leetcode.com/problems/clone-graph)
 
-- [ ] [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)
+- [x] [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)
 
 - [ ] [Bus Routes](https://leetcode.com/problems/bus-routes/)
 
