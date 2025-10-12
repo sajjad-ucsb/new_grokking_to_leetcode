@@ -271,7 +271,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Basic Calculator](https://leetcode.com/problems/basic-calculator/)
 
-- [ ] [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
+- [x] [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
 
 - [x] [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
 
