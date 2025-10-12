@@ -329,7 +329,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [x] [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
 
-- [ ] [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)
+- [x] [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)
 
 - [x] [Symmetric Tree](https://leetcode.com/problems/symmetric-tree)
 
