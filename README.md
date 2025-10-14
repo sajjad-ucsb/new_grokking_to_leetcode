@@ -315,11 +315,11 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)
 
-- [ ] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)
+- [x] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)
 
 - [x] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 
-- [ ] [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst)
+- [x] [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst)
 
 ## Tree Breadth First Search
 
