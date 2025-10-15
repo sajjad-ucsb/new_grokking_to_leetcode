@@ -83,7 +83,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Task Scheduler](https://leetcode.com/problems/task-scheduler/)
 
-- [ ] [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)
+- [x] [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)
 
 ## In-place Reversal of a Linked List
 
