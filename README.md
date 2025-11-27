@@ -111,7 +111,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Schedule Tasks on Minimum Machines](https://leetcode.com/problems/task-scheduler/)?
 
-## K-way merge
+## 7. K-way merge
 
 - [x] [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 
@@ -125,7 +125,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 
-## Top K Elements
+## 8. Top K Elements
 
 - [x] [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
 
@@ -141,7 +141,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [x] [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)
 
-## Modified Binary Search
+## 9. Modified Binary Search
 
 - [x] [Binary Search](https://leetcode.com/problems/binary-search/)
 
@@ -157,7 +157,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
 
-## Subsets
+## 10. Subsets
 
 - [x] [Subsets](https://leetcode.com/problems/subsets/)
 
@@ -169,7 +169,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [x] [Find K-Sum Subsets](https://leetcode.com/problems/subarray-sum-equals-k/)?
 
-## Greedy Techniques
+## 11. Greedy Techniques
 
 - [ ] [Jump Game I](https://leetcode.com/problems/jump-game/)
 
@@ -181,7 +181,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
 
-## Backtracking
+## 12. Backtracking
 
 - [ ] [N-Queens](https://leetcode.com/problems/n-queens/)
 
@@ -197,7 +197,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/)
 
-## Dynamic Programming
+## 13. Dynamic Programming
 
 - [ ] [0/1 Knapsack]()?
 
@@ -231,7 +231,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [x] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 
-## Cyclic Sort
+## 14. Cyclic Sort
 
 - [ ] [Missing Number](https://leetcode.com/problems/missing-number/)
 
@@ -243,7 +243,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Find the First K Missing Positive Numbers](https://leetcode.com/problems/kth-missing-positive-number/)
 
-## Topological Sort
+## 15. Topological Sort
 
 - [ ] [Compilation Order]()?
 
@@ -257,7 +257,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Find All Possible Recipes from Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/)
 
-## Matrices
+## 16. Matrices
 
 - [ ] [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 
@@ -267,7 +267,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/)
 
-## Stacks
+## 17. Stacks
 
 - [ ] [Basic Calculator](https://leetcode.com/problems/basic-calculator/)
 
@@ -283,7 +283,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 
-## Graphs
+## 18. Graphs
 
 - [ ] [Network Delay Time](https://leetcode.com/problems/network-delay-time/)
 
@@ -295,7 +295,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Bus Routes](https://leetcode.com/problems/bus-routes/)
 
-## Tree Depth First Search
+## 19. Tree Depth First Search
 
 - [x] [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
 
@@ -321,7 +321,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [x] [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst)
 
-## Tree Breadth First Search
+## 20. Tree Breadth First Search
 
 - [x] [Level Order Traversal of Binary Tree](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 
@@ -337,7 +337,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [x] [Connect All Siblings of a Binary Tree](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
 
-## Trie
+## 21. Trie
 
 - [x] [Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/)
 
@@ -351,7 +351,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)
 
-## Hash Maps
+## 22. Hash Maps
 
 - [ ] [Design Hashmap](https://leetcode.com/problems/design-hashmap/)
 
@@ -365,7 +365,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [x] [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
 
-## Knowing What to Track
+## 23. Knowing What to Track
 
 - [ ] [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/)
 
@@ -383,7 +383,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Ransom Note](https://leetcode.com/problems/ransom-note/)
 
-## Union Find
+## 24. Union Find
 
 - [ ] [Redundant Connection](https://leetcode.com/problems/redundant-connection/)
 
@@ -403,7 +403,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Evaluate Division](https://leetcode.com/problems/evaluate-division/)
 
-## Custom Data Structures
+## 25. Custom Data Structures
 
 - [ ] [Snapshot Array](https://leetcode.com/problems/snapshot-array/)
 
@@ -417,7 +417,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [LFU Cache](https://leetcode.com/problems/lfu-cache/)
 
-## Bitwise Manipulation
+## 26. Bitwise Manipulation
 
 - [ ] [Find the Difference](https://leetcode.com/problems/find-the-difference/)
 
