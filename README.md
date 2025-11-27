@@ -27,7 +27,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 - [ ] Unsolved
 - [X] Solved
 
-## Sliding Window
+## 1. Sliding Window
 - [ ] [Find Maximum in Sliding Window](https://leetcode.com/problems/sliding-window-maximum/)
 
 - [ ] [Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence/)
@@ -44,7 +44,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 
-## Two Pointers
+## 2. Two Pointers
 - [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 
 - [x] [Sum of Three Values](https://leetcode.com/problems/3sum-closest/)
@@ -57,7 +57,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [x] [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
 
-## Fast and Slow Pointers
+## 3. Fast and Slow Pointers
 
 - [x] [Happy Number](https://leetcode.com/problems/happy-number/)
 
@@ -71,7 +71,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [x] [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 
-## Merge Intervals
+## 4. Merge Intervals
 
 - [x] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 
@@ -85,7 +85,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [x] [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)
 
-## In-place Reversal of a Linked List
+## 5. In-place Reversal of a Linked List
 
 - [x] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 
@@ -101,7 +101,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [x] [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
 
-## Two Heaps
+## 6. Two Heaps
 
 - [ ] [Maximize Capital](https://leetcode.com/problems/ipo/)
 
